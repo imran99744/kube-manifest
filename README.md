@@ -14,4 +14,4 @@ This repository contains the code of the **Kubernetes manifest files** as part o
 
 ➡️ [Manifest Repo] (https://github.com/piyushsachdeva/kube_manifest)
 
-🙏 Thank you so much for reading.
+Thank you so much for reading.
